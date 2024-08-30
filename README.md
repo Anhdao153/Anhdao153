@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 </p align="center">
-<img src="https://github.com/Anhdao153/Anhdao153/blob/main/images/newbg(1).png" />
+<img src="https://github.com/Anhdao153/Anhdao153/blob/main/images/imgpsh_fullsize_anim.jpeg" />
 
 <p align="center">
 
