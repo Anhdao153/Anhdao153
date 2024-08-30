@@ -67,12 +67,12 @@ Here are some ideas to get you started:
 </a> -->
 </p>
 
-<h2 align="center">
+<!-- <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
   <img src="https://github.com/Anhdao153/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=anhdao153&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anhdao153&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=anhdao153&show_icons=true&theme=catppuccin_mocha&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anhdao153&hide=html,css,shaderlab,kotlin,hlsl&theme=catppuccin_mocha">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anhdao153&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anhdao153&show_icons=true&locale=en&layout=compact&theme=catppuccin-mocha&line_height=0" />
 </p>
 
 <p align = "center">
