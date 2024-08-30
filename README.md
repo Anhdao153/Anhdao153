@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
 
 <!--  https://thiennd.github.io/portfolio/  -->
 <p align="center">
@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> -->
-<img src="https://img.shields.io/badge/nestjs-black.svg?style=for-the-badge&logo=nestjs"/>
-<img src="https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs"/>
+<img src="https://img.shields.io/badge/docker-black?style=flat-square&logo=docker"/>
 <!-- <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> -->
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-AWS-black.svg?style=for-the-badge&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/-DynamoDB-black?style=for-the-badge&logo=Amazon%20DynamoDB"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=Amazon%20DynamoDB"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/Anhdao153/Anhdao153/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Anhdao153/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=anhdao153&theme=redical">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=anhdao153&theme=github-compact">
 </p>
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
