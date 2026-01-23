@@ -19,20 +19,13 @@ Here are some ideas to get you started:
 <p align="center">
 
 </p align="center">
-<img src="https://github.com/Anhdao153/Anhdao153/blob/main/images/imgpsh_fullsize_anim.jpeg" />
 
 <p align="center">
-
- <img src="https://badges.pufler.dev/visits/Anhdao153/Anhdao153"/>
- <!-- <img src="https://badges.pufler.dev/years/anhdao153"/> -->
- <img src="https://badges.pufler.dev/repos/Anhdao153"/>
- <img src="https://badges.pufler.dev/commits/monthly/Anhdao153" />
-
+ <img src="https://komarev.com/ghpvc/?username=anhdao153&label=Profile%20views&color=0e75b6&style=flat" alt="anhdao153" />
+ <img src="https://img.shields.io/github/followers/anhdao153?label=Followers&style=social" alt="GitHub followers" />
+ <img src="https://img.shields.io/github/stars/anhdao153?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
 
 <h2 align="center">Technology Stack <img src="https://github.com/anhdao153/anhdao153/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -86,11 +79,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=anhdao153&show_icons=true&locale=en&layout=compact&theme=catppuccin-mocha&line_height=0" />
-</p>
-
-<p align = "center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anhdao153&theme=github-compact">
 </p>
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
