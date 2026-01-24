@@ -26,7 +26,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/github/stars/anhdao153?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-
 <h2 align="center">Technology Stack <img src="https://github.com/anhdao153/anhdao153/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
@@ -74,8 +73,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=anhdao153&show_icons=true&theme=catppuccin_mocha&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anhdao153&hide=html,css,shaderlab,kotlin,hlsl&theme=catppuccin_mocha">
+  <img  src = "https://github-readme-stats-lgb83c5ay-anhdao153s-projects.vercel.app/api?username=anhdao153&show_icons=true&theme=catppuccin_mocha&line_height=27">
+  <img src = "https://github-readme-stats-lgb83c5ay-anhdao153s-projects.vercel.app/api/top-langs/?username=anhdao153&hide=html,css,shaderlab,kotlin,hlsl&theme=catppuccin_mocha">
 </p>
 
 <p align = "center">
